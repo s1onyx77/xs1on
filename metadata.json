@@ -1,0 +1,6 @@
+{
+  "name": "MathSolver AI - Step-by-Step Student Tutor",
+  "description": "Interactive AI math solver that provides step-by-step solutions, clear operation explanations, visual representations, and practice examples for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
